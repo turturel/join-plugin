@@ -1,6 +1,6 @@
 package join;
 
-import com.gargoylesoftware.htmlunit.html.HtmlPage;
+import org.htmlunit.html.HtmlPage;
 import hudson.model.*;
 import hudson.model.Cause.UserIdCause;
 import hudson.plugins.parameterizedtrigger.BuildTriggerConfig;
